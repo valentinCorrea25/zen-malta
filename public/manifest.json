@@ -1,0 +1,33 @@
+{
+  "theme_color": "#8936FF",
+  "background_color": "#f6f6f6",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icons/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icons/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "Zen Malta",
+  "short_name": "zen_malta",
+  "scope": "/",
+  "start_url": "https://zen-malta.vercel.app",
+  "description": "Relaxing and focus application, no ads or shit equivalent",
+  "categories": [
+    "health",
+    "lifestyle",
+    "productivity",
+    "utilities"
+  ]
+}
